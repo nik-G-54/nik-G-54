@@ -147,11 +147,11 @@ const nikhil = {
 <div align="center">
 
 <a href="https://github.com/nik-G-54/lastProject">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=iharshyadav&repo=Synthex&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nik-G-54&repo=lastProject&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
-<a href="https://github.com/iharshyadav/Vero">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nik-G-54&repo=lastProject&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/nik-G-54/React3Fiber">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nik-G-54&repo=React3Fiber&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
