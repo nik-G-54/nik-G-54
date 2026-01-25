@@ -20,7 +20,7 @@
 ## 🚀 About Me
 
 ```typescript
-const harsh = {
+const nikhil = {
     location: "India 🇮🇳",
     currentFocus: "Open Source Contributions",
     learning: ["Frontend Development","3D intractive UI design", "DSA"],
