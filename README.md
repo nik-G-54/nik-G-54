@@ -87,6 +87,7 @@ const nikhil = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nik-G-54&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
+
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=nik-G-54&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
@@ -166,6 +167,13 @@ const nikhil = {
 </div>
 
 ---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
 
 ## 🤝 Let's Connect!
 
