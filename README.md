@@ -88,7 +88,7 @@ const nikhil = {
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/api?user=nik-G-54&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=nik-G-54&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
 </div>
 
 <div align="center">
